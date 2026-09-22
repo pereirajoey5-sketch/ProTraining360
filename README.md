@@ -1,8 +1,3 @@
-Got you, Joey — you want a **product description for your ProTraining360 project**, something clean, professional, and suitable for GitHub or Moodle.  
-Here’s a polished version that fits perfectly as a **README introduction** or **project description**.
-
----
-
 # **ProTraining360 — Product Description**
 
 ## **Overview**
